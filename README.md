@@ -1,6 +1,6 @@
 # Shweta1905
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shweta+Ghritlahre;Aspiring+Data+Scientist+%26+ML+Enthusiast;Turning+data+into+insights+%F0%9F%A7%A1%EF%B8%8F;Delhi%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shweta+Ghritlahre;Aspiring+Data+Scientist;Turning+data+into+insights+%F0%9F%A7%A1%EF%B8%8F;Delhi%2C+India" alt="Typing SVG" />
 </div>
 
 ### 👩‍💻 About Me
