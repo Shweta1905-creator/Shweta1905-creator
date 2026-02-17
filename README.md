@@ -41,11 +41,11 @@ me = DataAnalyst()
 me.say_hi()
 ```
 
-🌱 **Currently:** Building end-to-end data solutions & exploring Generative AI for analytics  
-🌟 **Learning:** Advanced SQL, MLOps, Cloud Analytics (AWS/GCP), and LLM-powered dashboards  
-💡 **Passionate About:** Turning complex datasets into clear, actionable stories that drive decisions  
-📚 **Background:** B.Tech IT with strong foundation in Python, SQL, Tableau & statistical modeling  
-🔬 **Specialization:** EDA, Predictive Modeling, Computer Vision applications & Business Intelligence  
+📊 **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
+🐍 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization workflows  
+🤖 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
+🌱 **Currently Learning:** Advanced SQL optimization, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows  
+🎯 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling  
 
 <br clear="right"/>
 
