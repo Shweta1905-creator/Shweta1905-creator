@@ -36,6 +36,7 @@ me.say_hi()
 </table>
 
 <!-- Row 2: 5 points full width below -->
+
 ⚡ **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects. 
 💻 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization.  
 🚀 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist.  
