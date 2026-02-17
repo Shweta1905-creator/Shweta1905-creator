@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shweta+GhritLahre;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG"/>
 </h1>
 
----
-
 ## 🎯 About Me
 
 <!-- Row 1: Code block (left) + Image (right) -->
@@ -360,6 +358,4 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+
