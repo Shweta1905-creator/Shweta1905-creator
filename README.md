@@ -36,11 +36,11 @@ me.say_hi()
 </table>
 
 <!-- Row 2: 5 points full width below -->
-⚡ **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
-💻 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization  
-🚀 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
-☁️ **Currently Learning:** Advanced SQL, Cloud Analytics (AWS), MLOps & LLM-powered data workflows  
-🏆 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling  
+⚡ **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects. 
+💻 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization.  
+🚀 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist.  
+☁️ **Currently Learning:** Advanced SQL, Cloud Analytics (AWS), MLOps & LLM-powered data workflows.  
+🏆 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling. 
 
 ---
 
@@ -117,10 +117,10 @@ me.say_hi()
 Product positioning and targeted marketing strategy
 
 **My Analysis:**
-- ✅ Analyzed customer demographics using descriptive statistics
-- ✅ Applied conditional probabilities for buyer segmentation
-- ✅ Identified key factors (Income, Marital Status) influencing premium purchases
-- ✅ Delivered actionable recommendations for marketing team
+- ✅ Analyzed customer demographics using descriptive statistics.
+- ✅ Applied conditional probabilities for buyer segmentation.
+- ✅ Identified key factors (Income, Marital Status) influencing premium purchases.
+- ✅ Delivered actionable recommendations for marketing team.
 
 **Business Impact:**
 Data-driven insights enabling targeted customer campaigns
@@ -147,10 +147,10 @@ Data-driven insights enabling targeted customer campaigns
 Understanding content trends and distribution patterns
 
 **My Analysis:**
-- ✅ Performed EDA on 8,000+ titles dataset
-- ✅ Analyzed genre distribution, release patterns, and geography
-- ✅ Identified content gaps and growth opportunities
-- ✅ Created compelling visualizations for stakeholder presentation
+- ✅ Performed EDA on 8,000+ titles dataset.
+- ✅ Analyzed genre distribution, release patterns, and geography.
+- ✅ Identified content gaps and growth opportunities.
+- ✅ Created compelling visualizations for stakeholder presentation.
 
 **Business Impact:**
 Strategic insights for content acquisition decisions
@@ -186,10 +186,10 @@ Strategic insights for content acquisition decisions
 Real-time gesture recognition for system automation
 
 **What I Built:**
-- 🤖 Developed contactless volume control using hand gestures
-- 📸 Implemented hand tracking with MediaPipe library
-- ✨ Achieved **98% accuracy** across varied lighting conditions
-- 🔊 Integrated with system audio control APIs
+- 🤖 Developed contactless volume control using hand gestures.
+- 📸 Implemented hand tracking with MediaPipe library.
+- ✨ Achieved **98% accuracy** across varied lighting conditions.
+- 🔊 Integrated with system audio control APIs.
 
 **Learning Outcome:**
 Applied computer vision and ML for practical automation
@@ -216,10 +216,10 @@ Applied computer vision and ML for practical automation
 AI-powered image enhancement and processing
 
 **What I Built:**
-- 🖼️ Built Streamlit web app for image super-resolution
-- 🤖 Implemented 4× AI upscaling with batch processing
-- 🔍 Added Error Level Analysis (ELA) for forensics
-- ⚡ Created user-friendly interface with undo/redo
+- 🖼️ Built Streamlit web app for image super-resolution.
+- 🤖 Implemented 4× AI upscaling with batch processing.
+- 🔍 Added Error Level Analysis (ELA) for forensics.
+- ⚡ Created user-friendly interface with undo/redo.
 
 **Learning Outcome:**
 Deployed ML models in production web applications
@@ -246,16 +246,16 @@ Deployed ML models in production web applications
 **Bharti Institute of Nursing**
 
 **Key Responsibilities:**
-- 📖 Delivered structured lectures on Descriptive & Inferential Statistics
-- 🎓 Taught hypothesis testing: z-test, t-test, ANOVA (aligned with curriculum)
-- 📊 Applied data visualization techniques to demonstrate statistical insights
-- 💡 Simplified complex concepts with real-life examples and problem-solving exercises
-- 🗣️ Developed presentation, communication, and classroom management skills
+- 📖 Delivered structured lectures on Descriptive & Inferential Statistics.
+- 🎓 Taught hypothesis testing: z-test, t-test, ANOVA (aligned with curriculum).
+- 📊 Applied data visualization techniques to demonstrate statistical insights.
+- 💡 Simplified complex concepts with real-life examples and problem-solving exercises.
+- 🗣️ Developed presentation, communication, and classroom management skills.
 
 **Impact:**
-- Enhanced student comprehension and engagement through practical teaching
-- Connected theoretical statistical concepts with real-world applications
-- Built strong public speaking and knowledge transfer capabilities
+- Enhanced student comprehension and engagement through practical teaching.
+- Connected theoretical statistical concepts with real-world applications.
+- Built strong public speaking and knowledge transfer capabilities.
 
 </td>
 <td width="30%" valign="top" align="center">
@@ -288,10 +288,10 @@ Deployed ML models in production web applications
 </div>
 
 **Key Learnings:**
-- ✅ Self-driven learning in data preprocessing, statistical analysis, and machine learning
-- ✅ Strong foundation in Python, SQL, and data structures
-- ✅ Hands-on experience with real-world data analytics projects
-- ✅ Developed problem-solving and critical thinking abilities
+- ✅ Self-driven learning in data preprocessing, statistical analysis, and machine learning.
+- ✅ Strong foundation in Python, SQL, and data structures.
+- ✅ Hands-on experience with real-world data analytics projects.
+- ✅ Developed problem-solving and critical thinking abilities.
 
 ---
 
