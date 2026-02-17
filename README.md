@@ -2,43 +2,62 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shweta+GhritLahre;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG"/>
 </h1>
 
+<h3 align="center">B.Tech IT | Data Analyst | Machine Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shweta1905-creator&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Shweta1905-creator?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen?style=for-the-badge" alt="focus"/>
+</p>
+
+<div align="center">
+  <a href="mailto:shwetaghritlahre05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shweta-Ghritlahre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Shweta1905-creator"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</div>
+
+<br/>
 
 ---
 
-
-
-<!-- ===== ABOUT ME SECTION ===== -->
-<img align="right" alt="Analytics GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 ## 🎯 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name       = "Shweta GhritLahre"
-        self.role       = "Data Analyst | ML Enthusiast"
-        self.location   = "Delhi, India"
-        self.education  = "B.Tech in Information Technology"
-        self.skills     = ["SQL", "Python", "Tableau", "Machine Learning"]
+        self.name      = "Shweta GhritLahre"
+        self.role      = "Data Analyst | ML Enthusiast"
+        self.location  = "Delhi, India"
+        self.education = "B.Tech in Information Technology"
+        self.skills    = ["SQL", "Python", "Tableau",
+                          "Machine Learning"]
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's turn data into decisions together!")
+        print("Thanks for dropping by!")
+        print("Let's turn data into decisions together!")
 
 me = DataAnalyst()
 me.say_hi()
 ```
 
 📊 **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
-🐍 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization workflows  
+🐍 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization  
 🤖 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
-🌱 **Currently Learning:** Advanced SQL optimization, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows  
+🌱 **Currently Learning:** Advanced SQL, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows  
 🎯 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling  
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="middle" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Analytics GIF"/>
+</td>
+</tr>
+</table>
 
 ---
-<!-- ===== END OF ABOUT ME ===== -->
 
 ## 💡 Why Hire Me?
 
@@ -291,6 +310,33 @@ Deployed ML models in production web applications
 
 ---
 
+## 📊 Analytics Skills Matrix
+
+<div align="center">
+
+| 📊 **Data Analysis** | 📈 **Statistics** | 📉 **Visualization** | 🤖 **Machine Learning** |
+|:---:|:---:|:---:|:---:|
+| SQL Query Writing | Hypothesis Testing | Tableau Dashboards | Supervised Learning |
+| Data Cleaning | A/B Testing | Power BI Reports | Regression Analysis |
+| Excel Modeling | Probability Theory | Matplotlib/Seaborn | Classification Models |
+| ETL Processes | Descriptive Stats | Interactive Charts | Clustering |
+| Data Validation | Inferential Stats | Data Storytelling | Feature Engineering |
+| KPI Development | ANOVA & t-tests | Business Reporting | Predictive Analytics |
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta1905-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta1905-creator&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta1905-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta1905-creator&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -341,7 +387,7 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 <a href="https://linkedin.com/in/shweta-Ghritlahre">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="/cdn-cgi/l/email-protection#2c5f445b49584d4b445e4558404d445e491c196c4b414d4540024f4341">
+<a href="mailto:shwetaghritlahre05@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Shweta1905-creator">
@@ -361,5 +407,6 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 ---
 
 <div align="center">
-  <img src=
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
