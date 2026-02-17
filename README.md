@@ -2,28 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shweta+GhritLahre;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">B.Tech IT | Data Analyst | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shweta1905-creator&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Shweta1905-creator?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen?style=for-the-badge" alt="focus"/>
-</p>
-
-<div align="center">
-  <a href="mailto:shwetaghritlahre05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/shweta-Ghritlahre">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Shweta1905-creator">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
 ---
 
 ## 🎯 About Me
@@ -63,7 +41,7 @@ me.say_hi()
 ⚡ **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
 💻 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization  
 🚀 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
-☁️ **Currently Learning:** Advanced SQL, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows  
+☁️ **Currently Learning:** Advanced SQL, Cloud Analytics (AWS), MLOps & LLM-powered data workflows  
 🏆 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling  
 
 ---
@@ -93,7 +71,6 @@ me.say_hi()
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
 
 ### 💻 Programming & Automation
@@ -378,8 +355,6 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 ### 💡 *"Data is powerful, but insights drive decisions."* 💡
 
 <br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
