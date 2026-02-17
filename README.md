@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <a href="mailto:shwetaghritlahre05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#d5a6bda2b0a1b4b2bda7bca1b9b4bda7b0e5e095b2b8b4bcb9fbb6bab8"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shweta-Ghritlahre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Shweta1905-creator"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </div>
@@ -20,26 +20,37 @@
 
 ---
 
+<!-- ===== ABOUT ME SECTION ===== -->
 <img align="right" alt="Analytics GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🎯 About Me
 
-I am a **Computer Science Graduate** with specialized expertise in **Data Analytics** and **Business Intelligence**. 
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name       = "Shweta GhritLahre"
+        self.role       = "Data Analyst | ML Enthusiast"
+        self.location   = "Delhi, India"
+        self.education  = "B.Tech in Information Technology"
+        self.skills     = ["SQL", "Python", "Tableau", "Machine Learning"]
 
-Unlike typical analysts, I combine **strong SQL & Excel foundations** with **advanced Python automation** and **Machine Learning capabilities**.
+    def say_hi(self):
+        print("Thanks for dropping by! Let's turn data into decisions together!")
 
-**My Goal:** Help businesses translate raw numbers into clear, actionable decisions while using AI/ML to automate processes and predict trends.
+me = DataAnalyst()
+me.say_hi()
+```
 
-### What Makes Me Different?
-
-✅ **Solid Analytics Foundation** - Excel, SQL, Tableau mastery  
-✅ **Business-First Mindset** - I understand the "why" behind the numbers  
-✅ **Technical Edge** - Python automation and ML skills beyond standard tools  
-✅ **Proven Teaching Experience** - Taught Statistics to diverse audiences  
+🌱 **Currently:** Building end-to-end data solutions & exploring Generative AI for analytics  
+🌟 **Learning:** Advanced SQL, MLOps, Cloud Analytics (AWS/GCP), and LLM-powered dashboards  
+💡 **Passionate About:** Turning complex datasets into clear, actionable stories that drive decisions  
+📚 **Background:** B.Tech IT with strong foundation in Python, SQL, Tableau & statistical modeling  
+🔬 **Specialization:** EDA, Predictive Modeling, Computer Vision applications & Business Intelligence  
 
 <br clear="right"/>
 
 ---
+<!-- ===== END OF ABOUT ME ===== -->
 
 ## 💡 Why Hire Me?
 
@@ -369,7 +380,7 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 <a href="https://linkedin.com/in/shweta-Ghritlahre">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:shwetaghritlahre05@gmail.com">
+<a href="/cdn-cgi/l/email-protection#2c5f445b49584d4b445e4558404d445e491c196c4b414d4540024f4341">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Shweta1905-creator">
@@ -389,6 +400,5 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+  <img src=
 
