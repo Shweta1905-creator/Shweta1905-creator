@@ -1,12 +1,37 @@
-  <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shweta+GhritLahre;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG"/>
 </h1>
+
+<h3 align="center">B.Tech IT | Data Analyst | Machine Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shweta1905-creator&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Shweta1905-creator?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen?style=for-the-badge" alt="focus"/>
+</p>
+
+<div align="center">
+  <a href="mailto:shwetaghritlahre05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shweta-Ghritlahre">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shweta1905-creator">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</div>
+
 <br/>
 
-🎯 About Me
+---
+
+## 🎯 About Me
+
 <table>
 <tr>
 <td width="60%" valign="top">
+
 ```python
 class DataAnalyst:
     def __init__(self):
@@ -16,20 +41,23 @@ class DataAnalyst:
         self.education = "B.Tech in Information Technology"
         self.skills    = ["SQL", "Python", "Tableau",
                           "Machine Learning"]
-def say_hi(self):
-    print("Thanks for dropping by!")
-    print("Let's turn data into decisions together!")
+
+    def say_hi(self):
+        print("Thanks for dropping by!")
+        print("Let's turn data into decisions together!")
+
 me = DataAnalyst()
 me.say_hi()
-    
-📊 **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
-⚡ **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization  
-🏆 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
-🌱 **Currently Learning:** Advanced SQL, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows  
-🎯 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling  
+```
+
+⚡ **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
+💻 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization  
+🚀 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
+☁️ **Currently Learning:** Advanced SQL, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows  
+🏆 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling  
 
 </td>
-<td width="20%" valign="middle" align="top">
+<td width="40%" valign="middle" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Analytics GIF"/>
 </td>
 </tr>
@@ -62,6 +90,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
 
 ### 💻 Programming & Automation
@@ -81,6 +110,7 @@ me.say_hi()
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
@@ -114,7 +144,7 @@ Product positioning and targeted marketing strategy
 - ✅ Identified key factors (Income, Marital Status) influencing premium purchases
 - ✅ Delivered actionable recommendations for marketing team
 
-**Business Impact:**  
+**Business Impact:**
 Data-driven insights enabling targeted customer campaigns
 
 **Tools:** `Python` `Pandas` `Seaborn` `Statistics`
@@ -144,7 +174,7 @@ Understanding content trends and distribution patterns
 - ✅ Identified content gaps and growth opportunities
 - ✅ Created compelling visualizations for stakeholder presentation
 
-**Business Impact:**  
+**Business Impact:**
 Strategic insights for content acquisition decisions
 
 **Tools:** `Python` `NumPy` `Matplotlib` `Seaborn`
@@ -183,7 +213,7 @@ Real-time gesture recognition for system automation
 - ✨ Achieved **98% accuracy** across varied lighting conditions
 - 🔊 Integrated with system audio control APIs
 
-**Learning Outcome:**  
+**Learning Outcome:**
 Applied computer vision and ML for practical automation
 
 **Stack:** `Python` `OpenCV` `MediaPipe` `NumPy` `PyAutoGUI`
@@ -213,7 +243,7 @@ AI-powered image enhancement and processing
 - 🔍 Added Error Level Analysis (ELA) for forensics
 - ⚡ Created user-friendly interface with undo/redo
 
-**Learning Outcome:**  
+**Learning Outcome:**
 Deployed ML models in production web applications
 
 **Stack:** `Python` `Streamlit` `OpenCV` `Pillow` `Scikit-image`
@@ -250,7 +280,7 @@ Deployed ML models in production web applications
 - Built strong public speaking and knowledge transfer capabilities
 
 </td>
-<td width="30%">
+<td width="30%" valign="top" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
@@ -284,6 +314,37 @@ Deployed ML models in production web applications
 - ✅ Strong foundation in Python, SQL, and data structures
 - ✅ Hands-on experience with real-world data analytics projects
 - ✅ Developed problem-solving and critical thinking abilities
+
+---
+
+## 📊 Analytics Skills Matrix
+
+<div align="center">
+
+| 📊 **Data Analysis** | 📈 **Statistics** | 📉 **Visualization** | 🤖 **Machine Learning** |
+|:---:|:---:|:---:|:---:|
+| SQL Query Writing | Hypothesis Testing | Tableau Dashboards | Supervised Learning |
+| Data Cleaning | A/B Testing | Power BI Reports | Regression Analysis |
+| Excel Modeling | Probability Theory | Matplotlib/Seaborn | Classification Models |
+| ETL Processes | Descriptive Stats | Interactive Charts | Clustering |
+| Data Validation | Inferential Stats | Data Storytelling | Feature Engineering |
+| KPI Development | ANOVA & t-tests | Business Reporting | Predictive Analytics |
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta1905-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta1905-creator&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta1905-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta1905-creator&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
 
 ---
 
@@ -343,6 +404,12 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 <br/><br/>
 
 ### 💡 *"Data is powerful, but insights drive decisions."* 💡
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
